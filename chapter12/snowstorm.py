@@ -1,4 +1,4 @@
-# Chapter 12 practice program: snowstorm.py
+# Chapter 12 program: snowstorm.py (provided in the chapter) 
 # Text-based snowstorm animation.
 
 import os
