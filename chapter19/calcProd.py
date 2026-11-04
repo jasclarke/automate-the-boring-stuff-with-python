@@ -7,7 +7,7 @@ def calculate_product():
     product = 1
     
     for i in range(1, 100001):
-        product = product * 1
+        product = product * i
 
     return product
 
